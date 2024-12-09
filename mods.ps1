@@ -1,0 +1,1 @@
+Get-ChildItem | Select-String -Pattern '\b(?:AutoClicker|Raven|UwU|Reach|FastBridge|KillAura|AntiKnockback|AntiKB|SelfDestruct|Nightmare|Huzuni|gucciclient|Triggerbot|tr1ggerbot|DoxThreat|Hamdulilha|trumpclientftw_bape_ggb6|mergeclienta|sumoclient|shitkid|macros|iReSqtkUVgaWmiReSqtkUVg|otaku)\b' >> Results.csv
